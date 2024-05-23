@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetas de Comidas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Recetas de Comidas</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="form-group">
+                <label for="recipe-title">Título de la Receta</label>
+                <input type="text" id="recipe-title" placeholder="Introduce el título de la receta">
+            </div>
+            <div class="form-group">
+                <label for="recipe-description">Descripción</label>
+                <textarea id="recipe-description" placeholder="Describe los ingredientes y la preparación"></textarea>
+            </div>
+            <div class="buttons">
+                <button class="btn" id="add-recipe">Agregar Receta</button>
+            </div>
+            <div class="form-group">
+                <label for="search-recipe">Buscar Receta</label>
+                <input type="text" id="search-recipe" placeholder="Introduce el título de la receta a buscar">
+                <button class="btn" id="search-button">Consultar Receta</button>
+            </div>
+            <div id="recipes">
+                <!-- Aquí se mostrarán las recetas -->
+                <div class="recipe">
+                    <h2>Título de Ejemplo</h2>
+                    <p>Descripción de ejemplo de la receta...</p>
+                    <div class="recipe-actions">
+                        <button class="btn">Modificar</button>
+                        <button class="btn danger">Eliminar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
+

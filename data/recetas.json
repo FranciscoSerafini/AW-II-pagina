@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tarta de Manzana",
+    "descripcion": "Deliciosa tarta de manzana con una base crujiente y relleno de manzanas caramelizadas."
+  },
+  {
+    "id": 2,
+    "titulo": "Espaguetis a la Carbonara",
+    "descripcion": "Clásicos espaguetis a la carbonara con una cremosa salsa de huevo, queso parmesano y panceta."
+  },
+  {
+    "id": 3,
+    "titulo": "Ensalada César",
+    "descripcion": "Refrescante ensalada césar con lechuga romana, crutones, pollo a la parrilla y aderezo cremoso."
+  }
+]

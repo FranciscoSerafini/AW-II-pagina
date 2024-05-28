@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "nombre": "Manzanas"
+    },
+    {
+      "id": 2,
+      "nombre": "Azúcar"
+    },
+    {
+      "id": 3,
+      "nombre": "Harina"
+    },
+    {
+      "id": 4,
+      "nombre": "Mantequilla"
+    },
+    {
+      "id": 5,
+      "nombre": "Huevo"
+    },
+    {
+      "id": 6,
+      "nombre": "Canela"
+    },
+    {
+      "id": 7,
+      "nombre": "Espaguetis"
+    },
+    {
+      "id": 8,
+      "nombre": "Panceta"
+    },
+    {
+      "id": 9,
+      "nombre": "Yemas de Huevo"
+    },
+    {
+      "id": 10,
+      "nombre": "Queso Parmesano"
+    },
+    {
+      "id": 11,
+      "nombre": "Sal"
+    },
+    {
+      "id": 12,
+      "nombre": "Pimienta"
+    },
+    {
+      "id": 13,
+      "nombre": "Lechuga Romana"
+    },
+    {
+      "id": 14,
+      "nombre": "Pollo"
+    },
+    {
+      "id": 15,
+      "nombre": "Crutones"
+    },
+    {
+      "id": 16,
+      "nombre": "Aceite de Oliva"
+    },
+    {
+      "id": 17,
+      "nombre": "Anchoas"
+    }
+  ]
+  
